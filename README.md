@@ -7,3 +7,5 @@
 .oh-my-zsh
 
 # iterm2 임포트
+
+# 폰트 : pira code
